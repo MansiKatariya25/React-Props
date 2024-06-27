@@ -1,0 +1,12 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  background-color: black;
+}
+.all {
+  color: rgb(131, 24, 225);
+  text-align: center;
+  margin-top: 8rem;
+}
